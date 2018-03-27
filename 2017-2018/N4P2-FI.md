@@ -33,16 +33,23 @@ Description du projet
 
 # Équipe 3
 
-Description du projet
+Sport In est un outil de mise en relation mobile permettant aux employés d'une entreprise de créer ou rejoindre des évènements sportifs.
 
 ## Équipe
 
-* 
+* Adrien Busschaert
+* Juliette Parisseaux
+* Benjamin Magnier
+* Elodie Martel
+* Valentin Verspeek
+* Fabien Haingue
+* Aymeric Brunin
+* Thibaut Matzke
 
 ## Resources
 
-* git serveur :
-* git android :
+* git serveur : https://github.com/Haingue/jersey-skeleton.git
+* git android : https://github.com/Haingue/SportIn.git
 
 # Équipe 4
 
